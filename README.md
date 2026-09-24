@@ -1,0 +1,1 @@
+This project uses Pandas, Plotly and displays the cleaned presentable output using the streamlit web framework to study Startup, investors, and their growth over time to make a better investment decision
